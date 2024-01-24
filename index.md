@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: It's kind of a long story
 ---
 
+Welcome....
